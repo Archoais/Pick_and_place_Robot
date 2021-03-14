@@ -24,12 +24,12 @@ Youtube video with a demo of the robot's functions
 [![Pick_and_place_Robot](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
 
 
-<img src="images/Capture1.PNG" width="1000">
+<img src="Images/Capture1.PNG" width="1000">
 
-<img src="images/Capture2.PNG" width="1000">
+<img src="Images/Capture2.PNG" width="1000">
 
-<img src="images/Capture3.PNG" width="1000">
+<img src="Images/Capture3.PNG" width="1000">
 
-<img src="images/Capture4.PNG" width="1000">
+<img src="Images/Capture4.PNG" width="1000">
 
 
