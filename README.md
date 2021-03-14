@@ -2,9 +2,13 @@
 A robot with original kinematics (Delta - Scara Hybrid)
 The design is made such that it can be 3D printed or machined using a lathe and a mill.
 
+**Capabilities**
 
-
-
+   1. *Gripper excerts 164g of grip using a 9g servo and a rubber band. (1600N from 90N servo).*
+   1. *LCD displays robot position at any stage, and displays robot functions and execution status.*
+   1. *Stepper motors can run independently or in syncronization using an original multitasking algorithm.*
+   1. *Robot calculates its current position using matrix math, and its able to return to home point at any stage.*
+   1. *User can interact with robot via remote control, and drive it in open loop, insert coordinates or execute pre-programmed routines.*   
 
 
    *Stepper motors can run independently or in syncronization using an original multitasking algorithm.
