@@ -30,4 +30,8 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 <img src="Images/Capture3.PNG" width="1000">
 
+<img src="Images/Code1.PNG" width="1000">
+<img src="Images/Code2.PNG" width="1000">
+<img src="Images/Code3.PNG" width="1000">
+
 
