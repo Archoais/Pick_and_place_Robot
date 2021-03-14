@@ -2,6 +2,11 @@
 A robot with original kinematics (Delta - Scara Hybrid)
 The design is made such that it can be 3D printed or machined using a lathe and a mill.
 
+
+
+
+
+
 *Stepper motors can run independently or in syncronization using an original multitasking algorithm.
 
 *User can interact with robot via remote control, and drive it in open loop, insert coordinates or execute pre-programmed routines.
