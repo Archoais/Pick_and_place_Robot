@@ -7,15 +7,15 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 
 
-*Stepper motors can run independently or in syncronization using an original multitasking algorithm.
+  *Stepper motors can run independently or in syncronization using an original multitasking algorithm.
 
-*User can interact with robot via remote control, and drive it in open loop, insert coordinates or execute pre-programmed routines.
+  *User can interact with robot via remote control, and drive it in open loop, insert coordinates or execute pre-programmed routines.
 
-*Robot calculates its current position using matrix math, and its able to return to home point at any stage.
+  *Robot calculates its current position using matrix math, and its able to return to home point at any stage.
 
-*Gripper excerts 164g of grip using a 9g servo and a rubber band. (1600N from 90N servo).
+  *Gripper excerts 164g of grip using a 9g servo and a rubber band. (1600N from 90N servo).
 
-*LCD displays robot position at any stage, and displays robot functions and execution status.
+  *LCD displays robot position at any stage, and displays robot functions and execution status.
 
 Watch youtube video for a demo of the robot's functions
 
