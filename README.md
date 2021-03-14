@@ -26,6 +26,8 @@ Youtube video with a demo of the robot's functions
 
 <img src="Images/Capture1.PNG" width="1000">
 
+<img src="Images/Capture2.PNG" width="1000">
+
 <img src="Images/Capture4.PNG" width="1000">
 
 
