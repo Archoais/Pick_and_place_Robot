@@ -21,16 +21,15 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 Youtube video with a demo of the robot's functions
 
-[![Arduino-vision](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
+[![Pick_and_place_Robot](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
 
 
-<img src="images/Object%20Recognition-1.jpg" width="1000">
+<img src="images/Capture1.PNG" width="1000">
 
-<img src="images/Object%20Recognition-4.jpg" width="1000">
+<img src="images/Capture2.PNG" width="1000">
 
-<img src="images/Object%20Recognition-5.jpg" width="1000">
+<img src="images/Capture3.PNG" width="1000">
 
-<img src="images/Object%20Recognition-2.jpg" width="1000">
+<img src="images/Capture4.PNG" width="1000">
 
-<img src="images/Object%20Recognition-3.jpg" width="1000">
 
