@@ -19,7 +19,7 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 
 
-Youtube video with a demo of the robot's functions
+**Youtube video with a demo of the robot's functions**
 
 [![Pick_and_place_Robot](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
 
