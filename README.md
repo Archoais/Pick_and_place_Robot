@@ -24,11 +24,17 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 [![Pick_and_place_Robot](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
 
 
-<img src="Images/Capture1.PNG" width="1000">
+<img src="Images/Capture0.jpeg" width="1000">
 
-<img src="Images/Capture2.PNG" width="1000">
+<img src="Images/Capture1.jpeg" width="1000">
 
-<img src="Images/Capture3.PNG" width="1000">
+<img src="Images/Capture2.jpeg" width="1000">
+
+<img src="Images/Capture3.jpeg" width="1000">
+
+<img src="Images/Capture4.jpeg" width="1000">
+
+<img src="Images/Capture5.jpeg" width="1000">
 
 <img src="Images/Code1.png" width="1000">
 <img src="Images/Code2.png" width="1000">
