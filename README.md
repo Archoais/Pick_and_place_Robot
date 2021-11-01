@@ -15,13 +15,31 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+**Sections**
+
+   1. *Videos*
+   2. *3D Model [Solidworks]*
+   3. *Code*
 
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Videos**
+
+**Demonstration of the robot's functions**
+Demo @ min 3:00
+https://www.youtube.com/watch?v=zmx4JTvrhPM
+[![Pick_and_place_Robot Final](https://img.youtube.com/vi/zmx4JTvrhPM/0.jpg)](https://www.youtube.com/watch?v=zmx4JTvrhPM)
 
 
-**Youtube video with a demo of the robot's functions**
+**Breakdown of the robot's software w/ Demo**
+Demo @ min 7:00
 
-[![Pick_and_place_Robot](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
+[![Pick_and_place_Robot Alpha](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**3D Model [Solidworks]**
 
 
 <img src="Images/Capture0.jpg" width="1000">
@@ -35,6 +53,10 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 <img src="Images/Capture4.jpg" width="1000">
 
 <img src="Images/Capture5.jpg" width="1000">
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Robot's Code**
 
 <img src="Images/Code1.png" width="1000">
 <img src="Images/Code2.png" width="1000">
