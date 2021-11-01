@@ -26,16 +26,16 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 **Videos**
 
-            **Demonstration of the robot's functions**
-            Demo @ min 3:00
+   **Demonstration of the robot's functions**
+   Demo @ min 3:00
 
-            [![Pick_and_place_Robot Final](https://img.youtube.com/vi/zmx4JTvrhPM/0.jpg)](https://www.youtube.com/watch?v=zmx4JTvrhPM)
+   [![Pick_and_place_Robot Final](https://img.youtube.com/vi/zmx4JTvrhPM/0.jpg)](https://www.youtube.com/watch?v=zmx4JTvrhPM)
 
 
-            **Breakdown of the robot's software w/ Demo**
-            Demo @ min 7:00
+   **Breakdown of the robot's software w/ Demo**
+   Demo @ min 7:00
 
-            [![Pick_and_place_Robot Alpha](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
+   [![Pick_and_place_Robot Alpha](https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg)](https://www.youtube.com/watch?v=lHf0z-T4qHo)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
