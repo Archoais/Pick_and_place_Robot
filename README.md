@@ -24,7 +24,7 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Videos**
+**Videos**                     [Open in youtube]
 
    1. **Demonstration of the robot's functions**        Demo @ min 3:00
 
@@ -36,7 +36,7 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**3D Model [Solidworks]**
+**3D Model [Solidworks]**      [With & Witout gripper]
 
 
 <img src="Images/Capture0.jpg" width="1000">
@@ -53,10 +53,10 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Robot's Code**
+**The Code**                   [C based]
 
 <img src="Images/Code1.png" width="1000">
 <img src="Images/Code2.png" width="1000">
 <img src="Images/Code3.png" width="1000">
 
-**END OF README**
+**End of README.md**
