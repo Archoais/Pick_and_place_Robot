@@ -28,6 +28,7 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 **Demonstration of the robot's functions**
 Demo @ min 3:00
+
 [![Pick_and_place_Robot Final](https://img.youtube.com/vi/zmx4JTvrhPM/0.jpg)](https://www.youtube.com/watch?v=zmx4JTvrhPM)
 
 
@@ -61,4 +62,4 @@ Demo @ min 7:00
 <img src="Images/Code2.png" width="1000">
 <img src="Images/Code3.png" width="1000">
 
-
+**END OF README**
