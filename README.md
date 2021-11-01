@@ -24,7 +24,7 @@ The design is made such that it can be 3D printed or machined using a lathe and 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Videos**                     [Open in youtube]
+**Videos**                          [Open in youtube]
 
    1. **Demonstration of the robot's functions**        Demo @ min 3:00
 
